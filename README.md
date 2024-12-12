@@ -1,6 +1,6 @@
 # Git Workflow for Collaboration
 ---
-![banner](banner.jpeg)
+![banner](banner.png)
 ---
 
 This guide outlines a Git workflow for collaborating on a project with a team. It covers branching, pull requests, code reviews, and merging changes.
